@@ -123,6 +123,7 @@ Collate:
     'geom-tile.r'
     'geom-violin.r'
     'geom-vline.r'
+    'geom_arc.R'
     'ggplot2.r'
     'grob-absolute.r'
     'grob-dotstack.r'
